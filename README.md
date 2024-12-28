@@ -18,4 +18,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Shiva-Kumarr-Thimmaraveni/Java-Script-Repo.git
+   ```
