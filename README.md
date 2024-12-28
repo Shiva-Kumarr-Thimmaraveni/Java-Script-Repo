@@ -20,3 +20,9 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    git clone https://github.com/Shiva-Kumarr-Thimmaraveni/Java-Script-Repo.git
    ```
+### Deployed URL
+
+## https://shiva-kumarr-thimmaraveni.github.io/Java-Script-Repo/IMDB-Clone-Project/
+
+
+
